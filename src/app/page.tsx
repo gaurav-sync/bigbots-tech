@@ -17,6 +17,7 @@ export default function Home() {
             <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
               Your hub for chatbots, automation tools, and AI solutions.
             </p>
+            
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link href="/tools" className="btn-primary text-lg px-8 py-4">
                 Explore Tools
